@@ -1,0 +1,17 @@
+{
+  "name": "Node.js",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "workbench.editorAssociations": {
+          "*.md": "vscode.markdown.preview.editor"
+        }
+      },
+      "extensions": ["learn-pack.learnpack-vscode"]
+    }
+  },
+  "forwardPorts": [3000, 3001],
+  "onCreateCommand": "npm i @learnpack/learnpack@5.0.348 -g"
+}
