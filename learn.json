@@ -1,3 +1,29 @@
-{"slug":"intermediate-data-modeling-class-diagrams","duration":3,"difficulty":"intermediate","title":{"us":"Intermediate Data Modeling with Class Diagrams","es":"Modelado de Datos Intermedio con Diagramas de Clases"},"description":{"us":"Twelve guided steps to model an online course platform with UML class diagrams in diagram.4geeks.com. No auto-grading—compare your final model with the reference in step 12.","es":"Doce pasos guiados para modelar una plataforma de cursos online con diagramas de clases UML en diagram.4geeks.com. Sin autoevaluacion: compara tu modelo final con la referencia del paso 12."},"preview":"https://github.com/4GeeksAcademy/javascript-beginner-exercises-tutorial/blob/master/preview.png?raw=true","projectType":"exercise","repository":"https://github.com/4GeeksAcademy/intermediate-data-modeling-class-diagrams","autoPlay":true,"gitpod":false,"localhostOnly":false,"technologies":["uml","class-diagrams","data-modeling","diagram.4geeks.com"],"videoSolutions":false,"bugsLink":"https://github.com/learnpack/learnpack/issues/new","graded":false,"grading":"no-grading","editor":{"version":"5.0","agent":"vscode","mode":"extension"},"delivery":{"formats":["no_delivery"]},"translations":["es","en"],"validationAt":1780410104328,"validationStatus":"warning", "telemetry": {
-        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=3701"
-     }}
+{
+    "slug": "intermediate-data-modeling-class-diagrams",
+    "title": "Intermediate Data Modeling with Class Diagrams",
+    "description": "Twelve guided steps to model an online course platform with UML class diagrams in diagram.4geeks.com. No auto-grading\u2014compare your final model with the reference in step 12.",
+    "preview": "https://github.com/4GeeksAcademy/intermediate-data-modeling-class-diagrams/blob/main/preview.png?raw=true",
+    "difficulty": "INTERMEDIATE",
+    "duration": 3,
+    "template_url": null,
+    "gitpod": true,
+    "technologies": [
+        "uml",
+        "class-diagrams",
+        "data-modeling",
+        "diagram-4geeks-com"
+    ],
+    "projectType": "exercise",
+    "editor": {
+        "agent": "vscode"
+    },
+    "delivery": {
+        "instructions": "",
+        "formats": [
+            "no_delivery"
+        ],
+        "regex": ""
+    },
+    "grading": "no-grading",
+    "localhostOnly": false
+}
