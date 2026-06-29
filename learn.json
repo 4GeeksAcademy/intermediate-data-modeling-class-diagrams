@@ -5,7 +5,6 @@
     "preview": "https://github.com/4GeeksAcademy/intermediate-data-modeling-class-diagrams/blob/main/preview.png?raw=true",
     "difficulty": "INTERMEDIATE",
     "duration": 3,
-    "template_url": null,
     "gitpod": true,
     "technologies": [
         "uml",
@@ -24,7 +23,7 @@
         ],
         "regex": ""
     },
-    "grading": "no-grading",
+    "grading": "isolated",
     "localhostOnly": false,
         "translations": ["es", "en"],
     "telemetry": {
